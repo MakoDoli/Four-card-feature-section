@@ -111,7 +111,7 @@ header p {
   width: 4.444vw;
   height: 4.444vw;
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 450px) {
   header {
     width: 294px;
   }
